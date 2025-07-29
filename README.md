@@ -1,7 +1,1 @@
-# practice
-# practice
-# practice
-# practice
-# practice
-# practice
-# practice
+Это ридми
